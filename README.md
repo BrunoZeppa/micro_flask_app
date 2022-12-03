@@ -1,6 +1,7 @@
 # micro_flask_app
 
-La info dinámica será enviada a través del portman, en los headers:<img width="798" alt="Captura de Pantalla 2022-12-02 a la(s) 19 48 03" src="https://user-images.githubusercontent.com/106636680/205417180-075532bf-0319-4a6f-8c00-f231d92287d7.png">
+La info dinámica será enviada a través del portman, en los headers:<img width="803" alt="Captura de Pantalla 2022-12-02 a la(s) 19 51 55" src="https://user-images.githubusercontent.com/106636680/205417281-f5ec41fa-c3d9-4cea-bb26-7c2478e773f0.png">
+
 
 despues se hará la petición get, si la habilida la tiene el pokemos de la url mandade, entonces devolverá la siguiente respuesta:<img width="803" alt="Captura de Pantalla 2022-12-02 a la(s) 19 47 00" src="https://user-images.githubusercontent.com/106636680/205417209-a40c5114-decd-493a-9773-2650de0853ff.png">
 
